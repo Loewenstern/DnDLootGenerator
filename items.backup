@@ -1,873 +1,1218 @@
 [
   {
-    "id": "Healing Potion",
+    "id": "Healing Potions",
     "weight": 50,
     "items": [
       {
-        "id": "Potion of Supreme Healing",
-        "price": 2000,
-        "active": true
+        "id": "Potion of Continuous Healing",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
-        "id": "Potion of Continuous Healing",
-        "price": 2000,
-        "active": true
+        "id": "Potion of Supreme Healing",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme",
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Potion of Superior Healing",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/5134-potion-of-healing-superior",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Potion of Greater Healing",
         "price": 200,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Potion of Healing",
         "price": 50,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/8960641-potion-of-healing",
+        "active": true,
+        "rarity": "COMMON"
       }
     ],
     "active": true
   },
   {
-    "id": "Gemstone",
+    "id": "Gemstones",
     "weight": 30,
     "items": [
       {
         "id": "Black Sapphire",
         "price": 5000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Diamond",
         "price": 5000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Jacinth",
         "price": 5000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Ruby",
         "price": 5000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Black Opal",
         "price": 1000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Blue Sapphire",
         "price": 1000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Emerald",
         "price": 1000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Fire Opal",
         "price": 1000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Opal",
         "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Star Ruby",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Star Sapphire",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Yellow Sapphire",
-        "price": 1000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Small Diamond",
         "price": 1000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
+      },
+      {
+        "id": "Star Ruby",
+        "price": 1000,
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
+      },
+      {
+        "id": "Star Sapphire",
+        "price": 1000,
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
+      },
+      {
+        "id": "Yellow Sapphire",
+        "price": 1000,
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Alexandrite",
         "price": 500,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Aquamarine",
         "price": 500,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Black Pearl",
         "price": 500,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Blue Spinel",
         "price": 500,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Peridot",
         "price": 500,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Topaz",
         "price": 500,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Black Diamond",
         "price": 300,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Amber",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Amethyst",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Chrysoberyl",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Coral",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Garnet",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Jade",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Jet",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Pearl",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Spinel",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Tourmaline",
         "price": 100,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Bloodstone",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Carnelian",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Chalcedony",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Chrysoprase",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Citrine",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Jasper",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Moonstone",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Onyx",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Quartz",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Sardonyx",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Star Rose Quartz",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Zircon",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Azurite",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Banded Agate",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Blue Quartz",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Eye Agate",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Hematite",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Lapis Lazuli",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Malachite",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Moss Agate",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Obsidian",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Rhodochrosite",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Tiger Eye",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
         "id": "Turquoise",
         "price": 10,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "MUNDANE"
       }
     ],
     "active": true
   },
   {
-    "id": "Potion",
+    "id": "Potions",
     "weight": 30,
     "items": [
       {
         "id": "Oil of Sharpness",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/9228908-oil-of-sharpness",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Enhanced Reactions",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Potion of Flying",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/4704-potion-of-flying",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Greater Invisibility",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/9228934-potion-of-greater-invisibility",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Legendary Resistance",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Longevity",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/5359-potion-of-longevity",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Possibility",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Protection",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Speed",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/9228939-potion-of-speed",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Potion of Truesight",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Reincarnation Dust",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Superior Potion of Mana",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Vampiric Essence",
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Bottled Rest",
         "price": 2000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Elixir of Health",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/5351-elixir-of-health",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Liquid Luck",
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Meditative Rest",
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Oil of Dragon's Bane",
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Oil of Etherealness",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/4687-oil-of-etherealness",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Polymorph Potion",
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Potion of Aqueous Form",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/1752527-potion-of-aqueous-form",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Potion of Clairvoyance",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/4701-potion-of-clairvoyance",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Potion of Diminution",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/4703-potion-of-diminution",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Potion of Gaseous Form",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/4705-potion-of-gaseous-form",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Potion of Heroism",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/4709-potion-of-heroism",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Potion of Invisibility",
         "price": 2000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9228935-potion-of-invisibility",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Potion of Longevity",
+        "id": "Potion of Invulnerability",
         "price": 2000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5358-potion-of-invulnerability",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Potion of Possibility",
+        "id": "Potion of Mana",
         "price": 2000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Potion of Speed",
+        "id": "Potion of Mind Reading",
         "price": 2000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9228936-potion-of-mind-reading",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Potion of Truesight",
+        "id": "Potion of Restoration",
         "price": 2000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Superior Potion of Mana",
+        "id": "Potion of Revival",
         "price": 2000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Reincarnation Dust",
+        "id": "Potion of Thor's Might",
         "price": 2000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Potion of Enhanced Reactions",
+        "id": "Potion of True Dreaming",
         "price": 2000,
-        "active": true
-      },
-      {
-        "id": "Potion of Legendary Resistance",
-        "price": 2000,
-        "active": true
-      },
-      {
-        "id": "Potion of Protection",
-        "price": 2000,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Potion of Vitality",
         "price": 2000,
-        "active": true
-      },
-      {
-        "id": "Vampiric Essence",
-        "price": 2000,
-        "active": true
-      },
-      {
-        "id": "Oil of Dragon's Bane",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Aqueous Form",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Gaseous Form",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Mana",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of True Dreaming",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Oil of Etherealness",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Clairvoyance",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Diminution",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Heroism",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Invulnerability",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Mind Reading",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Thor's Might",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Bottled Rest",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Elixir of Health",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Liquid Luck",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Meditative Rest",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Polymorph Potion",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Restoration",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Potion of Revival",
-        "price": 1000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5360-potion-of-vitality",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Tincture of Werewolf's Bane",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Lesser Potion of Mana",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Midnight Oil",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Oil of Slipperiness",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Pixie Dust",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Potion of Animal Friendship",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Potion of Fire Breath",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Potion of Growth",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Potion of Resistance",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Potion of Waterbreathing",
-        "price": 200,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Blight Ichor",
         "price": 200,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/309-blight-ichor",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Brew of Babel",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Fire Balm",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Greater Antitoxin",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Keoghtom's Restorative Ointment",
         "price": 200,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9228809-keoghtoms-ointment",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Lesser Potion of Mana",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Life's Liquor",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Midnight Oil",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Murgaxor’s Elixer of Life",
         "price": 200,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/326-murgaxors-elixir-of-life",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Oil of Slipperiness",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228909-oil-of-slipperiness",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Pixie Dust",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Pomander of Warding",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Potion of Advantage",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Potion of Animal Friendship",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228933-potion-of-animal-friendship",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Potion of Fire Breath",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/5357-potion-of-fire-breath",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Potion of Growth",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9805016-potion-of-growth",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Potion of Maximum Power",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Potion of Resistance",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/5419-potion-of-resistance",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Potion of Shapeshifting",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Potion of Waterbreathing",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228940-potion-of-water-breathing",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Tea of Refreshment",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Alchemist's Fire",
         "price": 50,
-        "active": true
-      },
-      {
-        "id": "Bottled Breath",
-        "price": 50,
-        "active": true
-      },
-      {
-        "id": "Blasting Powder",
-        "price": 50,
-        "active": true
-      },
-      {
-        "id": "Grenade, smoke",
-        "price": 50,
-        "active": true
-      },
-      {
-        "id": "Potion of Climbing",
-        "price": 50,
-        "active": true
-      },
-      {
-        "id": "Potion of Swimming",
-        "price": 50,
-        "active": true
-      },
-      {
-        "id": "Soothsalts",
-        "price": 50,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/504-alchemists-fire",
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Antitoxin",
         "price": 50,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/520-antitoxin",
+        "active": true,
+        "rarity": "COMMON"
+      },
+      {
+        "id": "Blasting Powder",
+        "price": 50,
+        "url": "https://www.dndbeyond.com/equipment/311-blasting-powder",
+        "active": true,
+        "rarity": "COMMON"
+      },
+      {
+        "id": "Bottled Breath",
+        "price": 50,
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
+      },
+      {
+        "id": "Grenade, smoke",
+        "price": 50,
+        "url": "https://www.dndbeyond.com/equipment/550-smoke-grenade",
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Muroosa Balm",
         "price": 50,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/303-muroosa-balm",
+        "active": true,
+        "rarity": "COMMON"
+      },
+      {
+        "id": "Potion of Climbing",
+        "price": 50,
+        "url": "https://www.dndbeyond.com/magic-items/4702-potion-of-climbing",
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Potion of Plantspeak",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
+      },
+      {
+        "id": "Potion of Swimming",
+        "price": 50,
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Soothing Salve",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
+      },
+      {
+        "id": "Soothsalts",
+        "price": 50,
+        "url": "https://www.dndbeyond.com/equipment/310-soothsalts",
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Willowshade Oil",
         "price": 50,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/305-willowshade-oil",
+        "active": true,
+        "rarity": "COMMON"
       }
     ],
     "active": true
   },
   {
-    "id": "Poison",
+    "id": "Poisons",
     "weight": 10,
     "items": [
       {
         "id": "Armourer’s Blight",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Coup de Poudre",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Medusa’s Vengance",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Black Thistle Poison",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Deathsleep",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Essence of Rage",
-        "price": 2000,
-        "active": true
-      },
-      {
-        "id": "Midnight Tears",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Sandman’s Revenge",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Night Hag’s Curse",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Water of Death",
-        "price": 2000,
-        "active": true
+        "price": 20000,
+        "url": null,
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
-        "id": "Burnt Othur Fumes",
-        "price": 1000,
-        "active": true
+        "id": "Midnight Tears",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/equipment/559-midnight-tears",
+        "active": true,
+        "rarity": "VERY_RARE"
       },
       {
         "id": "Devil’s Powder",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Drow Poison",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Essence of Ether",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Dracula’s Essence",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Forgetfulness",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Fire Plague",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Magebane",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Magic’s Bane",
-        "price": 1000,
-        "active": true
-      },
-      {
-        "id": "Oil of Taggit",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Thessaltoxin",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": null,
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Torpor",
-        "price": 1000,
-        "active": true
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/equipment/564-torpor",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Angel's Powder",
-        "price": 200,
-        "active": true
+        "id": "Burnt Othur Fumes",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/equipment/554-burnt-othur-fumes",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Assassin’s Blood",
-        "price": 200,
-        "active": true
+        "id": "Oil of Taggit",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/equipment/560-oil-of-taggit",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Bane Berry Extract",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Black Paste",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Directed Delay",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Lava Paste",
-        "price": 200,
-        "active": true
+        "id": "Essence of Ether",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/equipment/556-essence-of-ether",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Malice",
         "price": 200,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/558-malice",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Drow Poison",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/equipment/140-drow-poison-injury",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Angel's Powder",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Bane Berry Extract",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Black Paste",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Directed Delay",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Lava Paste",
+        "price": 200,
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Noxious Transpiration",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Pale Tincture",
         "price": 200,
-        "active": true
-      },
-      {
-        "id": "Philter of Love",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Potion of Poison",
-        "price": 200,
-        "active": true
-      },
-      {
-        "id": "Truth Serum",
-        "price": 200,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/561-pale-tincture",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Taratella: The Great Humiliator",
         "price": 200,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
-        "id": "Acid Tablets",
-        "price": 50,
-        "active": true
+        "id": "Assassin’s Blood",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/equipment/553-assassins-blood",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Truth Serum",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/equipment/565-truth-serum",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Potion of Poison",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228937-potion-of-poison",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Basic Poison",
         "price": 50,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/398-basic-poison",
+        "active": true,
+        "rarity": "COMMON"
+      },
+      {
+        "id": "Philter of Love",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228922-philter-of-love",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Acid Tablets",
+        "price": 50,
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Biza’s Breath",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Dazzling Bomb",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Liquid Paranoia",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Nausea Pellet",
         "price": 50,
-        "active": true
+        "url": null,
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Perfume of Bewitching",
         "price": 50,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9228919-perfume-of-bewitching",
+        "active": true,
+        "rarity": "COMMON"
       },
       {
         "id": "Acid",
         "price": 25,
-        "active": true
+        "url": "https://www.dndbeyond.com/equipment/500-acid",
+        "active": true,
+        "rarity": "MUNDANE"
       }
     ],
     "active": true
@@ -877,174 +1222,1845 @@
     "weight": 50,
     "items": [
       {
+        "id": "Apparatus of Kwalish",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228348-apparatus-of-kwalish",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Armor of Invulnerability",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228350-armor-of-invulnerability",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Cloak of Invisibility",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9059006-cloak-of-invisibility",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Cubic Gate",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228413-cubic-gate",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Defender",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228450-defender",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Efreeti Chain",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228530-efreeti-chain",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Hammer of Thunderbolts",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228714-hammer-of-thunderbolts",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Holy Avenger",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228774-holy-avenger",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ioun Stone of Mastery",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228797-ioun-stone-of-mastery",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ioun Stone of Regeneration",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228799-ioun-stone-of-regeneration",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Moon Sickle, +3",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/2405460-moon-sickle-3",
+        "active": false,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ollamh Harp",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228910-ollamh-harp",
+        "active": false,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Plate Armor of Etherealness",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228928-plate-armor-of-etherealness",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ring of Elemental Command (Air)",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228960-ring-of-elemental-command-air",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ring of Elemental Command (Earth)",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228961-ring-of-elemental-command-earth",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ring of Fire Elemental Command",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228962-ring-of-elemental-command-fire",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ring of Water Elemental Command",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228963-ring-of-elemental-command-water",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ring of Invisibility",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228965-ring-of-invisibility",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ring of Spell Turning",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228969-ring-of-spell-turning",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Robe of the Archmagi",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/4742-robe-of-the-archmagi",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Rod of Lordly Might",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228981-rod-of-lordly-might",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Scarab of Protection",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9228997-scarab-of-protection",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Sphere of Annihilation",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9229086-sphere-of-annihilation",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Sword of Answering",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9229111-sword-of-answering",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Talisman of the Sphere",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9229124-talisman-of-the-sphere",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Vorpal Sword",
+        "price": 200000,
+        "url": "https://www.dndbeyond.com/magic-items/9229181-vorpal-sword",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Ioun Stone of Greater Absorption",
+        "price": 100000,
+        "url": "https://www.dndbeyond.com/magic-items/9228793-ioun-stone-of-greater-absorption",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": " Sovereign Glue ",
+        "price": 100000,
+        "url": "https://www.dndbeyond.com/magic-items/9229074-sovereign-glue",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Talisman of Pure Good",
+        "price": 100000,
+        "url": "https://www.dndbeyond.com/magic-items/9229123-talisman-of-pure-good",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Talisman of Ultimate Evil",
+        "price": 100000,
+        "url": "https://www.dndbeyond.com/magic-items/9229125-talisman-of-ultimate-evil",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": " Universal Solvent",
+        "price": 100000,
+        "url": "https://www.dndbeyond.com/magic-items/9229129-universal-solvent",
+        "active": true,
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": "Amulet of the Planes",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228345-amulet-of-the-planes",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Animated Shield",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/4571-animated-shield",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Anstruth Harp",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228346-anstruth-harp",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Armor, +3",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/5379-armor-3",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Carpet of Flying",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228381-carpet-of-flying",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Crystal Ball",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/4610-crystal-ball",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Dragon Scale Mail",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228477-dragon-scale-mail",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Dwarven Plate",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228527-dwarven-plate",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Dwarven Thrower",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/4627-dwarven-thrower",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Frost Brand",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228651-frost-brand",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Horn of Valhalla (Bronze)",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228778-horn-of-valhalla-bronze",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Horseshoes of a Zephyr",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228782-horseshoes-of-a-zephyr",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ioun Stone of Agility",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228790-ioun-stone-of-agility",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ioun Stone of Fortitude",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228792-ioun-stone-of-fortitude",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ioun Stone of Insight",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228794-ioun-stone-of-insight",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ioun Stone of Intellect ",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228795-ioun-stone-of-intellect",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ioun Stone of Leadership",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228796-ioun-stone-of-leadership",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ioun Stone of Strength",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228801-ioun-stone-of-strength",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Mirror of Life Trapping",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228851-mirror-of-life-trapping",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Nine Lives Stealer",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/5394-nine-lives-stealer",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": " Nolzur's Marvelous Pigments ",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228905-nolzurs-marvelous-pigments",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Oathbow",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228907-oathbow",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ring of Regeneration",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/4727-ring-of-regeneration",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ring of Shooting Stars",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228968-ring-of-shooting-stars",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ring of Telekinesis",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228970-ring-of-telekinesis",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Robe of Stars",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228978-robe-of-stars",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Rod of Alertness",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228980-rod-of-alertness",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Rod of Security",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228983-rod-of-security",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Rod of the Pact Keeper, +3",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9228986-rod-of-the-pact-keeper-3",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Scimitar of Speed",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/4752-scimitar-of-speed",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Shield, +3",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/5158-shield-3",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Spellguard Shield",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/4757-spellguard-shield",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Staff of Fire",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9229094-staff-of-fire",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Staff of Frost",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9229096-staff-of-frost",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Staff of Power",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9229098-staff-of-power",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Staff of Striking",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/4765-staff-of-striking",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Staff of Thunder and Lightning",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9229104-staff-of-thunder-and-lightning",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Sun Forger",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/316786-sunforger",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Wand of Polymorph",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/9229191-wand-of-polymorph",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Weapon, +3",
+        "price": 40000,
+        "url": "https://www.dndbeyond.com/magic-items/5404-weapon-3",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Ammunition, +3",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/5411-ammunition-3",
+        "active": false,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Arrow of Slaying ",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/9228351-arrow-of-slaying",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": " Ioun Stone of Absorption",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/9228789-ioun-stone-of-absorption",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Rod of Absorption",
+        "price": 20000,
+        "url": "https://www.dndbeyond.com/magic-items/4744-rod-of-absorption",
+        "active": true,
+        "rarity": "VERY_RARE"
+      },
+      {
+        "id": "Amulet of Health",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4568-amulet-of-health",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Armor of Resistance",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/5371-armor-of-resistance",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
         "id": "Armor, +1",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5377-armor-1",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Weapon, +2",
+        "id": "Armor, +2",
         "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Shield, +2",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Berserker Axe",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Dagger of Venom",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Elven Chain",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Mace of Smithing",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Rare Moon Sickle",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Ring of Protection",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Stirring Scaled Ornament",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Staff of Defense",
-        "price": 4000,
-        "active": true
-      },
-      {
-        "id": "Two Bird Sling",
-        "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5378-armor-2",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Arrow Catching Shield",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/4577-arrow-catching-shield",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Belt of Dwarvenkind",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Berserker Axe",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/5382-berserker-axe",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Boots of Levitation",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4588-boots-of-levitation",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Boots of Speed",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4589-boots-of-speed",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Bowl of Commanding Water Elementals",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228366-bowl-of-commanding-water-elementals",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Bracers of Defence",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/4594-bracers-of-defense",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Revelers Concertina",
+        "id": "Bracers of Defense",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/4594-bracers-of-defense",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Brazier of Commanding Fire Elementals",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228367-brazier-of-commanding-fire-elementals",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Canaith Mandolin",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228373-canaith-mandolin",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Cape of the Mountebank",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228376-cape-of-the-mountebank",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Censer of Controlling Air Elementals",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228396-censer-of-controlling-air-elementals",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Cli Lyre",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228406-cli-lyre",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Cloak of Displacement",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228407-cloak-of-displacement",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Cloak of the Bat",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4608-cloak-of-the-bat",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Cube of Force",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228411-cube-of-force",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Daern's Instant Fortress",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228414-daerns-instant-fortress",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Dagger of Venom",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228415-dagger-of-venom",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Dimensional Shackles",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/search?q=Dimensional%20Shackles",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Dragon Slayer",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228520-dragon-slayer",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Elven Chain",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228539-elven-chain",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Flame Tongue",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228647-flame-tongue",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Folding Boat",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228649-folding-boat",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Gem of Seeing",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228653-gem-of-seeing",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Giant Slayer",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/5388-giant-slayer",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Helm of Teleportation",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4656-helm-of-teleportation",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Heward's Handy Haversack",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228722-hewards-handy-haversack",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Horn of Valhalla (Brass)",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228777-horn-of-valhalla-brass",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Horn of Valhalla (Bronze)",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228778-horn-of-valhalla-bronze",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Horn of Valhalla (Iron)",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228779-horn-of-valhalla-iron",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Silver Horn of Valhalla",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228780-horn-of-valhalla-silver",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Horseshoes of Speed",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228783-horseshoes-of-speed",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ioun Stone Protection",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228798-ioun-stone-of-protection",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ioun Stone of Awareness",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228791-ioun-stone-of-awareness",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ioun Stone of Reserve",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228800-ioun-stone-of-reserve",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ioun Stone of Sustenance",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228803-ioun-stone-of-sustenance",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Iron Bands of Bilarro",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228805-iron-bands-of-bilarro",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Mace of Disruption",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4670-mace-of-disruption",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Mace of Smithing",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4671-mace-of-smiting",
+        "active": false,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Mace of Smiting",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4671-mace-of-smiting",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Mace of Terror",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228835-mace-of-terror",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Mantle of Spell Resistance",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4673-mantle-of-spell-resistance",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Rare Moon Sickle",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/2405452-moon-sickle-2",
+        "active": false,
+        "rarity": "RARE"
+      },
+      {
+        "id": " Necklace of Fireballs ",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228861-necklace-of-fireballs",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Periapt of Proof Against Poison",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9276658-periapt-of-proof-against-poison",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Portable Hole",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228932-portable-hole",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of Animal Influence",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228958-ring-of-animal-influence",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of Evasion",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4720-ring-of-evasion",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of Feather Falling",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4721-ring-of-feather-falling",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of Free Action",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4722-ring-of-free-action",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of Protection",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4726-ring-of-protection",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of Resistance",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9341408-ring-of-resistance",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of Spell Storing",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of X-Ray Vision",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228974-ring-of-x-ray-vision",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ring of the Ram",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228971-ring-of-the-ram",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Robe of Eyes",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228976-robe-of-eyes",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Robe of Scintillating Colors",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228977-robe-of-scintillating-colors",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Rod of Rulership",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228982-rod-of-rulership",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Rod of the Pact Keeper, +2",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228985-rod-of-the-pact-keeper-2",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Rope of Entanglement",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9228989-rope-of-entanglement",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Shield of Missile Attraction",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4754-shield-of-missile-attraction",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Shield, +2",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/5157-shield-2",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Staff of Charming",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229093-staff-of-charming",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Staff of Defense",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9090-staff-of-defense",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Staff of Healing",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229097-staff-of-healing",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Staff of Swarming Insects",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229099-staff-of-swarming-insects",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Staff of Withering",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/4771-staff-of-withering",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Staff of the Woodlands",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9229103-staff-of-the-woodlands",
+        "active": false,
+        "rarity": "RARE"
       },
       {
-        "id": "Staff of the Woodland",
+        "id": "Stone of Controlling Earth Elementals",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9229105-stone-of-controlling-earth-elementals",
+        "active": true,
+        "rarity": "RARE"
       },
       {
         "id": "Sun Blade",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9229110-sun-blade",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Sun Forger",
+        "id": "Sword of Wounding",
         "price": 4000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9229115-sword-of-wounding",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "10x Ammunition, +2",
+        "id": "Tentacle Rod",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229127-tentacle-rod",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Two Bird Sling",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/1752531-two-birds-sling",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Vicious Weapon",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229175-vicious-weapon",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wand of Binding",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229182-wand-of-binding",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wand of Enemy Detection",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229184-wand-of-enemy-detection",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wand of Fear",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229185-wand-of-fear",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wand of Lightning Bolts",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229187-wand-of-lightning-bolts",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wand of Paralysis",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229190-wand-of-paralysis",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wand of the War Mage, +2",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/5218-wand-of-the-war-mage-2",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wand of the War Mage, +3",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/5219-wand-of-the-war-mage-3",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Weapon, +2",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/5401-weapon-2",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Wings of Flying",
+        "price": 4000,
+        "url": "https://www.dndbeyond.com/magic-items/9229204-wings-of-flying",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Ammunition, +2",
         "price": 2000,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5410-ammunition-2",
+        "active": false,
+        "rarity": "RARE"
       },
       {
-        "id": "Weapon, +1",
-        "price": 400,
-        "active": true
+        "id": " Bead of Force ",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9180132-bead-of-force",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Shield, +1",
-        "price": 400,
-        "active": true
+        "id": "Chime of Opening",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228405-chime-of-opening",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Cloak of Protection",
-        "price": 400,
-        "active": true
+        "id": " Horn of Blasting",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228775-horn-of-blasting",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Eldritch Claw Tattoo",
-        "price": 400,
-        "active": true
+        "id": "Necklace of Fireballs",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228861-necklace-of-fireballs",
+        "active": true,
+        "rarity": "MUNDANE"
       },
       {
-        "id": "Eyes of Minute Seeing",
-        "price": 400,
-        "active": true
+        "id": "Quaal's Feather Token (Anchor)",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228942-quaals-feather-token-anchor",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Uncommon Moon Sickle",
-        "price": 400,
-        "active": true
+        "id": "Quaal's Feather Token (Bird)",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228943-quaals-feather-token-bird",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Slumbering Scaled Ornament",
-        "price": 400,
-        "active": true
+        "id": " Quaal's Feather Token (Fan) ",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228944-quaals-feather-token-fan",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Skyblinder Staff",
-        "price": 400,
-        "active": true
+        "id": "Quaal's Feather Token Swan Boat",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228945-quaals-feather-token-swan-boat",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Stone of Good Luck",
-        "price": 400,
-        "active": true
+        "id": " Quaal's Feather Token (Whip) ",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9228947-quaals-feather-token-whip",
+        "active": true,
+        "rarity": "RARE"
       },
       {
-        "id": "Sword of Vengeance",
+        "id": "Scroll of Protection",
+        "price": 2000,
+        "url": "https://www.dndbeyond.com/magic-items/9229016-scroll-of-protection",
+        "active": true,
+        "rarity": "RARE"
+      },
+      {
+        "id": "Adamantine Armor",
         "price": 400,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5370-adamantine-armor",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Alchemy Jug",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228343-alchemy-jug",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Bag of Holding",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228356-bag-of-holding",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Boots of Elvenkind",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Boots of Striding and Springing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228365-boots-of-striding-and-springing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Boots of the Winterlands",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4591-boots-of-the-winterlands",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Bracers of Archery",
         "price": 400,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/4593-bracers-of-archery",
+        "active": false,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Brooch of Shielding",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4596-brooch-of-shielding",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Broom of Flying",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228372-broom-of-flying",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Cap of Water Breathing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228375-cap-of-water-breathing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Circlet of Blasting",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4603-circlet-of-blasting",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Cloak of Arachnida",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4604-cloak-of-arachnida",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Cloak of Elvenkind",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228408-cloak-of-elvenkind",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Cloak of Protection",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4607-cloak-of-protection",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Cloak of the Manta Ray",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228409-cloak-of-the-manta-ray",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Decanter of Endless Water",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228419-decanter-of-endless-water",
+        "active": false,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Doss Lute",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228466-doss-lute",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Driftglobe",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228521-driftglobe",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Eldritch Claw Tattoo",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/2412184-eldritch-claw-tattoo",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Eversmoking Bottle",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228602-eversmoking-bottle",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Eyes of Charming",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228610-eyes-of-charming",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Eyes of Minute Seeing2",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228611-eyes-of-minute-seeing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Eyes of Minute Seeing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228611-eyes-of-minute-seeing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Eyes of the Eagle",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9276755-eyes-of-the-eagle",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Fochlucan Bandore",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228648-fochlucan-bandore",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Gauntlets of Ogre Power",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Gloves of Missile Snaring",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228697-gloves-of-missile-snaring",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Gloves of Swimming and Climbing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4647-gloves-of-swimming-and-climbing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Gloves of Thievery",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/5352-gloves-of-thievery",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Goggles of Night",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4648-goggles-of-night",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Hat of Disguise",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4651-hat-of-disguise",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Headband of Intellect",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4652-headband-of-intellect",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Helm of Comprehending Languages",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4654-helm-of-comprehending-languages",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Helm of Telepathy",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/search?q=Helm%20of%20Telepathy",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Immovable Rod",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228785-immovable-rod",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Javelin of Lightning",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228807-javelin-of-lightning",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Lantern of Revealing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228811-lantern-of-revealing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Mac-Fuirmidh Cittern",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228834-mac-fuirmidh-cittern",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Mariner's Armor",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228837-mariners-armor",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Medallion of Thoughts",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9781866-medallion-of-thoughts",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Mithral Armor",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/5381-mithral-armor",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Uncommon Moon Sickle",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/2405408-moon-sickle-1",
+        "active": false,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Necklace of Adaptation",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4682-necklace-of-adaptation",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Pearl of Power",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228918-pearl-of-power",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
         "id": "Periapt of Health",
         "price": 400,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/9228920-periapt-of-health",
+        "active": true,
+        "rarity": "UNCOMMON"
       },
       {
-        "id": "10x Ammunition, +1",
+        "id": "Periapt of Wound Closure",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228921-periapt-of-wound-closure",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Pipes of Haunting",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228925-pipes-of-haunting",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Amulet of Proof Against Detection and Location",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Quiver of Ehlonna",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/5367-quiver-of-ehlonna",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Revelers Concertina",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/2405691-revelers-concertina",
+        "active": false,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Ring of Jumping",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228966-ring-of-jumping",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Ring of Mind Shielding",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228967-ring-of-mind-shielding",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Ring of Swimming",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4732-ring-of-swimming",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Ring of Warmth",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228972-ring-of-warmth",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Ring of Water Walking",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228973-ring-of-water-walking",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Rod of the Pact Keeper, +1",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228984-rod-of-the-pact-keeper-1",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Rope of Climbing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9228988-rope-of-climbing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Saddle of the Cavalier",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/5396-saddle-of-the-cavalier",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Sending Stones",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9180147-sending-stones",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Sentinel Shield",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/5403-sentinel-shield",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Shield, +1",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4753-shield-1",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Skyblinder Staff",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/316774-skyblinder-staff",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Slippers of Spider Climbing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Staff of the Python",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9229102-staff-of-the-python",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Stone of Good Luck",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4773-stone-of-good-luck-luckstone",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Sword of Life-Stealing",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9229113-sword-of-life-stealing",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Sword of Vengeance",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/5505-sword-of-vengeance",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Trident of Fish Command",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4784-trident-of-fish-command",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Wand of Magic Detection",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9229188-wand-of-magic-detection",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Wand of Magic Missiles",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9237129-wand-of-magic-missiles",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Wand of Secrets",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9229193-wand-of-secrets",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Wand of Web",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9229194-wand-of-web",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Wand of the War Mage, +1",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/4798-wand-of-the-war-mage-1",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Weapon of Warning",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9229199-weapon-of-warning",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Weapon, +1",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/5400-weapon-1",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Winged Boots",
+        "price": 400,
+        "url": "https://www.dndbeyond.com/magic-items/9229203-winged-boots",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Ammunition, +1",
         "price": 200,
-        "active": true
+        "url": "https://www.dndbeyond.com/magic-items/5407-ammunition-1",
+        "active": false,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Deck of Illusions",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228420-deck-of-illusions",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Dust of Disappearance",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228522-dust-of-disappearance",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Dust of Dryness",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228523-dust-of-dryness",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Dust of Sneezing and Choking",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228524-dust-of-sneezing-and-choking",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Elemental Gem ",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228536-elemental-gem",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Gem of Brightness",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228652-gem-of-brightness",
+        "active": true,
+        "rarity": "UNCOMMON"
+      },
+      {
+        "id": "Robe of Useful Items",
+        "price": 200,
+        "url": "https://www.dndbeyond.com/magic-items/9228979-robe-of-useful-items",
+        "active": true,
+        "rarity": "UNCOMMON"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "Gunpowder",
+    "weight": 20,
+    "items": [
+      {
+        "id": "Musket",
+        "price": 500,
+        "url": "https://www.dndbeyond.com/equipment/43-musket",
+        "active": true,
+        "rarity": "MUNDANE"
+      },
+      {
+        "id": "Pistol",
+        "price": 250,
+        "url": "https://www.dndbeyond.com/equipment/42-pistol",
+        "active": true,
+        "rarity": "MUNDANE"
+      },
+      {
+        "id": "Gunpowder (keg)",
+        "price": 250,
+        "url": "https://www.dndbeyond.com/equipment/551-gunpowder-keg",
+        "active": true,
+        "rarity": "MUNDANE"
+      },
+      {
+        "id": "Bomb",
+        "price": 100,
+        "url": "https://www.dndbeyond.com/equipment/546-bomb",
+        "active": true,
+        "rarity": "MUNDANE"
+      },
+      {
+        "id": "Gunpowder (powder horn)",
+        "price": 35,
+        "url": "https://www.dndbeyond.com/equipment/552-gunpowder-powder-horn",
+        "active": true,
+        "rarity": "MUNDANE"
       }
     ],
     "active": true
