@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "Healing Potion",
+    "weight": 50,
+    "items": [
+      {
+        "id": "Potion of Supreme Healing",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Continuous Healing",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Superior Healing",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Greater Healing",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Healing",
+        "price": 50,
+        "active": true
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "Gemstone",
+    "weight": 30,
+    "items": [
+      {
+        "id": "Black Sapphire",
+        "price": 5000,
+        "active": true
+      },
+      {
+        "id": "Diamond",
+        "price": 5000,
+        "active": true
+      },
+      {
+        "id": "Jacinth",
+        "price": 5000,
+        "active": true
+      },
+      {
+        "id": "Ruby",
+        "price": 5000,
+        "active": true
+      },
+      {
+        "id": "Black Opal",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Blue Sapphire",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Emerald",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Fire Opal",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Opal",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Star Ruby",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Star Sapphire",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Yellow Sapphire",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Small Diamond",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Alexandrite",
+        "price": 500,
+        "active": true
+      },
+      {
+        "id": "Aquamarine",
+        "price": 500,
+        "active": true
+      },
+      {
+        "id": "Black Pearl",
+        "price": 500,
+        "active": true
+      },
+      {
+        "id": "Blue Spinel",
+        "price": 500,
+        "active": true
+      },
+      {
+        "id": "Peridot",
+        "price": 500,
+        "active": true
+      },
+      {
+        "id": "Topaz",
+        "price": 500,
+        "active": true
+      },
+      {
+        "id": "Black Diamond",
+        "price": 300,
+        "active": true
+      },
+      {
+        "id": "Amber",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Amethyst",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Chrysoberyl",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Coral",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Garnet",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Jade",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Jet",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Pearl",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Spinel",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Tourmaline",
+        "price": 100,
+        "active": true
+      },
+      {
+        "id": "Bloodstone",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Carnelian",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Chalcedony",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Chrysoprase",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Citrine",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Jasper",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Moonstone",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Onyx",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Quartz",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Sardonyx",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Star Rose Quartz",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Zircon",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Azurite",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Banded Agate",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Blue Quartz",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Eye Agate",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Hematite",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Lapis Lazuli",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Malachite",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Moss Agate",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Obsidian",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Rhodochrosite",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Tiger Eye",
+        "price": 10,
+        "active": true
+      },
+      {
+        "id": "Turquoise",
+        "price": 10,
+        "active": true
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "Potion",
+    "weight": 30,
+    "items": [
+      {
+        "id": "Oil of Sharpness",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Flying",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Invisibility",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Longevity",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Possibility",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Speed",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Truesight",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Superior Potion of Mana",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Reincarnation Dust",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Enhanced Reactions",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Legendary Resistance",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Protection",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Potion of Vitality",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Vampiric Essence",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Oil of Dragon's Bane",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Aqueous Form",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Gaseous Form",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Mana",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of True Dreaming",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Oil of Etherealness",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Clairvoyance",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Diminution",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Heroism",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Invulnerability",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Mind Reading",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Thor's Might",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Bottled Rest",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Elixir of Health",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Liquid Luck",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Meditative Rest",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Polymorph Potion",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Restoration",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Potion of Revival",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Tincture of Werewolf's Bane",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Lesser Potion of Mana",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Midnight Oil",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Oil of Slipperiness",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Pixie Dust",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Animal Friendship",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Fire Breath",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Growth",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Resistance",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Waterbreathing",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Blight Ichor",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Brew of Babel",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Fire Balm",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Greater Antitoxin",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Keoghtom's Restorative Ointment",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Life's Liquor",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Murgaxor’s Elixer of Life",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Pomander of Warding",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Advantage",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Maximum Power",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Shapeshifting",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Tea of Refreshment",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Alchemist's Fire",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Bottled Breath",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Blasting Powder",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Grenade, smoke",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Potion of Climbing",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Potion of Swimming",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Soothsalts",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Antitoxin",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Muroosa Balm",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Potion of Plantspeak",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Soothing Salve",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Willowshade Oil",
+        "price": 50,
+        "active": true
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "Poison",
+    "weight": 10,
+    "items": [
+      {
+        "id": "Armourer’s Blight",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Coup de Poudre",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Medusa’s Vengance",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Black Thistle Poison",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Deathsleep",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Essence of Rage",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Midnight Tears",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Sandman’s Revenge",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Night Hag’s Curse",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Water of Death",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Burnt Othur Fumes",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Devil’s Powder",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Drow Poison",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Essence of Ether",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Dracula’s Essence",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Forgetfulness",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Fire Plague",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Magebane",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Magic’s Bane",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Oil of Taggit",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Thessaltoxin",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Torpor",
+        "price": 1000,
+        "active": true
+      },
+      {
+        "id": "Angel's Powder",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Assassin’s Blood",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Bane Berry Extract",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Black Paste",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Directed Delay",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Lava Paste",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Malice",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Noxious Transpiration",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Pale Tincture",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Philter of Love",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Potion of Poison",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Truth Serum",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Taratella: The Great Humiliator",
+        "price": 200,
+        "active": true
+      },
+      {
+        "id": "Acid Tablets",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Basic Poison",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Biza’s Breath",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Dazzling Bomb",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Liquid Paranoia",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Nausea Pellet",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Perfume of Bewitching",
+        "price": 50,
+        "active": true
+      },
+      {
+        "id": "Acid",
+        "price": 25,
+        "active": true
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "Magic Equipment",
+    "weight": 50,
+    "items": [
+      {
+        "id": "Armor, +1",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Weapon, +2",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Shield, +2",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Berserker Axe",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Dagger of Venom",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Elven Chain",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Mace of Smithing",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Rare Moon Sickle",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Ring of Protection",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Stirring Scaled Ornament",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Staff of Defense",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Two Bird Sling",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Arrow Catching Shield",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Belt of Dwarvenkind",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Bracers of Defence",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Revelers Concertina",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Staff of the Woodlands",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Staff of the Woodland",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Sun Blade",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "Sun Forger",
+        "price": 4000,
+        "active": true
+      },
+      {
+        "id": "10x Ammunition, +2",
+        "price": 2000,
+        "active": true
+      },
+      {
+        "id": "Weapon, +1",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Shield, +1",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Cloak of Protection",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Eldritch Claw Tattoo",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Eyes of Minute Seeing",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Uncommon Moon Sickle",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Slumbering Scaled Ornament",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Skyblinder Staff",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Stone of Good Luck",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Sword of Vengeance",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Bracers of Archery",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "Periapt of Health",
+        "price": 400,
+        "active": true
+      },
+      {
+        "id": "10x Ammunition, +1",
+        "price": 200,
+        "active": true
+      }
+    ],
+    "active": true
+  }
+]
