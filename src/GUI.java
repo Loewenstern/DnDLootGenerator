@@ -157,6 +157,14 @@ public class GUI extends JFrame implements ActionListener{
 
         languageComboBox = new JComboBox<>(Main.getSupportedLocales());
         languageComboBox.setSelectedItem(Main.getGuiBundle().getLocale());
+        languageComboBox.setRenderer(new DefaultListCellRenderer(){
+            @Override
+            public Component getListCellRendererComponent(JList<?> list, Object value, int index, boolean isSelected, boolean cellHasFocus) {
+                super.getListCellRendererComponent(list, value, index, isSelected, cellHasFocus);
+                setText(Main.getGuiBundle().getString(value.toString()));
+                return this;
+            }
+        });
         languageComboBox.addActionListener(_ -> {
             Main.changeLanguage((Locale) languageComboBox.getSelectedItem());
             updateI18nComponents();
