@@ -11,7 +11,7 @@ public class Main {
     private static Locale locale;
     private static final Locale[] supportedLocales = {
             Locale.ENGLISH,
-            Locale.GERMANY,
+            Locale.GERMAN
     };
     private static ResourceBundle guiBundle;
     private static I18nProperties itemProperties;
@@ -21,7 +21,7 @@ public class Main {
     public static void main(String[] args) {
         boolean localeSupported = false;
         for (Locale locale : supportedLocales){
-            if (locale == Locale.getDefault()){
+            if (locale.getLanguage().equals(Locale.getDefault().getLanguage())){
                 localeSupported = true;
                 break;
             }
