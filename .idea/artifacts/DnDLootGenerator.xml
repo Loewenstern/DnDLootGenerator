@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DnDLootGenerator">
+    <output-path>$PROJECT_DIR$/out/artifacts/DnDLootGenerator</output-path>
+    <root id="archive" name="DnDLootGenerator.jar">
+      <element id="module-output" name="DnD Loot Generator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20251224/json-20251224.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.13.0/jackson-databind-2.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.13.0/jackson-annotations-2.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.13.0/jackson-core-2.13.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/category.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/category_de.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/category_en.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/item_de.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/item_en.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/items.json" />
+      <element id="file-copy" path="$PROJECT_DIR$/item.properties" />
+      <element id="dir-copy" path="$PROJECT_DIR$/icons" />
+    </root>
+  </artifact>
+</component>

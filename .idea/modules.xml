@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/D&amp;D 5.5e Loot Generator.iml" filepath="$PROJECT_DIR$/D&amp;D 5.5e Loot Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DnD Loot Generator.iml" filepath="$PROJECT_DIR$/DnD Loot Generator.iml" />
     </modules>
   </component>
 </project>
