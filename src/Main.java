@@ -8,10 +8,10 @@ import java.util.*;
 public class Main {
     private static ArrayList<ItemCategory> categories;
     private static GUI gui;
-    private static Locale locale = Locale.ENGLISH;
+    private static Locale locale;
     private static final Locale[] supportedLocales = {
             Locale.ENGLISH,
-            Locale.GERMAN,
+            Locale.GERMANY,
     };
     private static ResourceBundle guiBundle;
     private static I18nProperties itemProperties;
@@ -19,6 +19,20 @@ public class Main {
     private static int moneyValue;
 
     public static void main(String[] args) {
+        boolean localeSupported = false;
+        for (Locale locale : supportedLocales){
+            if (locale == Locale.getDefault()){
+                localeSupported = true;
+                break;
+            }
+        }
+        if (localeSupported){
+            locale = Locale.getDefault();
+        }
+        else {
+            locale = Locale.ENGLISH;
+        }
+
         guiBundle = ResourceBundle.getBundle("language", locale);
         itemProperties = new I18nProperties("item", locale);
         categoryProperties = new I18nProperties("category", locale);
@@ -205,7 +219,7 @@ public class Main {
     public static void save(){
         ObjectMapper objectMapper = new ObjectMapper();
         try (FileWriter fileWriter = new FileWriter("items.json")){
-            fileWriter.write(objectMapper.writeValueAsString(categories));
+            fileWriter.write(objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(categories));
         }
         catch (Exception e){
             System.out.println(e.getMessage());
