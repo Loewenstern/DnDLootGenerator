@@ -6,6 +6,7 @@ import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Locale;
+import java.util.prefs.Preferences;
 
 public class GUI extends JFrame implements ActionListener{
 
@@ -74,7 +75,18 @@ public class GUI extends JFrame implements ActionListener{
     public GUI(){
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         getContentPane().setLayout(new OverlayLayout(getContentPane()));
-        setSize(500, 700);
+        Preferences preferences = Preferences.userRoot();
+        setLocation(preferences.getInt("x", 0), preferences.getInt("y", 0));
+        setSize(preferences.getInt("width", 500), preferences.getInt("height", 700));
+        addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowClosing(WindowEvent e) {
+                preferences.putInt("x", getLocation().x);
+                preferences.putInt("y", getLocation().y);
+                preferences.putInt("width", getSize().width);
+                preferences.putInt("height", getSize().height);
+            }
+        });
 
         mainPage = new JPanel();
         mainPage.setLayout(new BorderLayout());
