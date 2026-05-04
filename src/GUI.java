@@ -72,10 +72,9 @@ public class GUI extends JFrame implements ActionListener{
     private ItemCategory category;
     private Item item;
 
-    public GUI(){
+    public GUI(Preferences preferences){
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         getContentPane().setLayout(new OverlayLayout(getContentPane()));
-        Preferences preferences = Preferences.userRoot();
         setLocation(preferences.getInt("x", 0), preferences.getInt("y", 0));
         setSize(preferences.getInt("width", 500), preferences.getInt("height", 700));
         addWindowListener(new WindowAdapter() {
@@ -85,6 +84,7 @@ public class GUI extends JFrame implements ActionListener{
                 preferences.putInt("y", getLocation().y);
                 preferences.putInt("width", getSize().width);
                 preferences.putInt("height", getSize().height);
+                preferences.put("language", Main.getGuiBundle().getLocale().getLanguage());
             }
         });
 

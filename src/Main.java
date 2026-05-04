@@ -3,40 +3,29 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import javax.swing.*;
 import java.io.*;
 import java.util.*;
+import java.util.prefs.Preferences;
 
 
 public class Main {
-    private static ArrayList<ItemCategory> categories;
-    private static GUI gui;
-    private static Locale locale;
     private static final Locale[] supportedLocales = {
             Locale.ENGLISH,
             Locale.GERMAN
     };
+    private static ArrayList<ItemCategory> categories;
+    private static GUI gui;
+    private static Locale locale;
     private static ResourceBundle guiBundle;
     private static I18nProperties itemProperties;
     private static I18nProperties categoryProperties;
     private static int moneyValue;
 
     public static void main(String[] args) {
-        boolean localeSupported = false;
-        for (Locale locale : supportedLocales){
-            if (locale.getLanguage().equals(Locale.getDefault().getLanguage())){
-                localeSupported = true;
-                break;
-            }
-        }
-        if (localeSupported){
-            locale = Locale.getDefault();
-        }
-        else {
-            locale = Locale.ENGLISH;
-        }
-
+        Preferences preferences = Preferences.userRoot();
+        locale = new Locale.Builder().setLanguage(preferences.get("language", getDefaultLocale().getLanguage())).build();
         guiBundle = ResourceBundle.getBundle("language", locale);
         itemProperties = new I18nProperties("item", locale);
         categoryProperties = new I18nProperties("category", locale);
-        gui = new GUI();
+        gui = new GUI(preferences);
 
         load();
         for (ItemCategory category : categories){
@@ -247,6 +236,29 @@ public class Main {
         return new Random().nextInt((max - min) + 1) + min;
     }
 
+    public static void changeLanguage(Locale locale){
+        Main.locale = locale;
+        guiBundle = ResourceBundle.getBundle("language", locale);
+        itemProperties = new I18nProperties("item", locale);
+        categoryProperties = new I18nProperties("category", locale);
+    }
+
+    private static Locale getDefaultLocale(){
+        boolean localeSupported = false;
+        for (Locale locale : supportedLocales){
+            if (locale.getLanguage().equals(Locale.getDefault().getLanguage())){
+                localeSupported = true;
+                break;
+            }
+        }
+        if (localeSupported){
+            return Locale.getDefault();
+        }
+        else {
+            return Locale.ENGLISH;
+        }
+    }
+
     public static ArrayList<ItemCategory> getCategories() {
         return categories;
     }
@@ -266,12 +278,4 @@ public class Main {
     public static Locale[] getSupportedLocales(){
         return supportedLocales;
     }
-
-    public static void changeLanguage(Locale locale){
-        Main.locale = locale;
-        guiBundle = ResourceBundle.getBundle("language", locale);
-        itemProperties = new I18nProperties("item", locale);
-        categoryProperties = new I18nProperties("category", locale);
-    }
-
 }
